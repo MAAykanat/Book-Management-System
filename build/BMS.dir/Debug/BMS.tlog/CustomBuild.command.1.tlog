@@ -1,0 +1,10 @@
+^D:\!!!MAAYKANAT DOSYALAR\MAA_OWN_STUDY\GITHUB WORKFLOW\BOOK-MANAGEMENT-SYSTEM\CMAKELISTS.TXT
+setlocal
+"D:\Compilers\cmake 3.27.0\bin\cmake.exe" "-SD:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System" "-BD:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build" --check-stamp-file "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
