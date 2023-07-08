@@ -1,3 +1,0 @@
-D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/BMS.dir
-D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/ALL_BUILD.dir
-D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/ZERO_CHECK.dir

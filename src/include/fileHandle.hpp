@@ -4,8 +4,8 @@
 
 class FileHandle{
     public:
-        FileHandle();
-        ~FileHandle();
+        FileHandle(string fileName);
+        ~FileHandle(string fileName);
         void openFile(std::string fileName);
         void closeFile();
         void writeToFile(std::string data);
