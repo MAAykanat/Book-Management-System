@@ -26,7 +26,7 @@ events:
       Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 10.07.2023 10:01:17.
+      Build started 10.07.2023 14:49:46.
       Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\3.27.0-rc4\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -52,7 +52,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.16
+      Time Elapsed 00:00:05.44
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      Build started 10.07.2023 10:01:18.
+      Build started 10.07.2023 14:49:51.
       Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\3.27.0-rc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
         Creating directory "Debug\\".
@@ -106,7 +106,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.93
+      Time Elapsed 00:00:04.57
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-5us118"
-      binary: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-5us118"
+      source: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-4wm0dg"
+      binary: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-4wm0dg"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -135,39 +135,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-5us118'
+        Change Dir: 'D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-4wm0dg'
         
-        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/MSBuild.exe" cmTC_a4277.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/MSBuild.exe" cmTC_72d35.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 10.07.2023 10:01:19.
-        Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5us118\\cmTC_a4277.vcxproj" on node 1 (default targets).
+        Build started 10.07.2023 14:49:58.
+        Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4wm0dg\\cmTC_72d35.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_a4277.dir\\Debug\\".
-          Creating directory "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5us118\\Debug\\".
-          Creating directory "cmTC_a4277.dir\\Debug\\cmTC_a4277.tlog\\".
+          Creating directory "cmTC_72d35.dir\\Debug\\".
+          Creating directory "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4wm0dg\\Debug\\".
+          Creating directory "cmTC_72d35.dir\\Debug\\cmTC_72d35.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_a4277.dir\\Debug\\cmTC_a4277.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_72d35.dir\\Debug\\cmTC_72d35.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4277.dir\\Debug\\\\" /Fd"cmTC_a4277.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_72d35.dir\\Debug\\\\" /Fd"cmTC_72d35.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30148 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4277.dir\\Debug\\\\" /Fd"cmTC_a4277.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_72d35.dir\\Debug\\\\" /Fd"cmTC_72d35.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
         Link:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5us118\\Debug\\cmTC_a4277.exe" /INCREMENTAL /ILK:"cmTC_a4277.dir\\Debug\\cmTC_a4277.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-5us118/Debug/cmTC_a4277.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-5us118/Debug/cmTC_a4277.lib" /MACHINE:X64  /machine:x64 "cmTC_a4277.dir\\Debug\\CMakeCCompilerABI.obj"
-          cmTC_a4277.vcxproj -> D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5us118\\Debug\\cmTC_a4277.exe
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4wm0dg\\Debug\\cmTC_72d35.exe" /INCREMENTAL /ILK:"cmTC_72d35.dir\\Debug\\cmTC_72d35.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-4wm0dg/Debug/cmTC_72d35.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-4wm0dg/Debug/cmTC_72d35.lib" /MACHINE:X64  /machine:x64 "cmTC_72d35.dir\\Debug\\CMakeCCompilerABI.obj"
+          cmTC_72d35.vcxproj -> D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4wm0dg\\Debug\\cmTC_72d35.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_a4277.dir\\Debug\\cmTC_a4277.tlog\\unsuccessfulbuild".
-          Touching "cmTC_a4277.dir\\Debug\\cmTC_a4277.tlog\\cmTC_a4277.lastbuildstate".
-        Done Building Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5us118\\cmTC_a4277.vcxproj" (default targets).
+          Deleting file "cmTC_72d35.dir\\Debug\\cmTC_72d35.tlog\\unsuccessfulbuild".
+          Touching "cmTC_72d35.dir\\Debug\\cmTC_72d35.tlog\\cmTC_72d35.lastbuildstate".
+        Done Building Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4wm0dg\\cmTC_72d35.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.00
+        Time Elapsed 00:00:01.05
         
       exitCode: 0
   -
@@ -179,8 +179,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-m2rbtw"
-      binary: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-m2rbtw"
+      source: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-e9hrde"
+      binary: "D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-e9hrde"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -189,39 +189,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-m2rbtw'
+        Change Dir: 'D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-e9hrde'
         
-        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/MSBuild.exe" cmTC_9e15e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "D:/Visual Studio/MSBuild/Current/Bin/MSBuild.exe" cmTC_910e7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        Build started 10.07.2023 10:01:21.
-        Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m2rbtw\\cmTC_9e15e.vcxproj" on node 1 (default targets).
+        Build started 10.07.2023 14:50:02.
+        Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e9hrde\\cmTC_910e7.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_9e15e.dir\\Debug\\".
-          Creating directory "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m2rbtw\\Debug\\".
-          Creating directory "cmTC_9e15e.dir\\Debug\\cmTC_9e15e.tlog\\".
+          Creating directory "cmTC_910e7.dir\\Debug\\".
+          Creating directory "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e9hrde\\Debug\\".
+          Creating directory "cmTC_910e7.dir\\Debug\\cmTC_910e7.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_9e15e.dir\\Debug\\cmTC_9e15e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_910e7.dir\\Debug\\cmTC_910e7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++17 /Fo"cmTC_9e15e.dir\\Debug\\\\" /Fd"cmTC_9e15e.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++17 /Fo"cmTC_910e7.dir\\Debug\\\\" /Fd"cmTC_910e7.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30148 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++17 /Fo"cmTC_9e15e.dir\\Debug\\\\" /Fd"cmTC_9e15e.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D "WIN32" /D "_WINDOWS" /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++17 /Fo"cmTC_910e7.dir\\Debug\\\\" /Fd"cmTC_910e7.dir\\Debug\\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "D:\\Compilers\\cmake 3.27.0\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m2rbtw\\Debug\\cmTC_9e15e.exe" /INCREMENTAL /ILK:"cmTC_9e15e.dir\\Debug\\cmTC_9e15e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-m2rbtw/Debug/cmTC_9e15e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-m2rbtw/Debug/cmTC_9e15e.lib" /MACHINE:X64  /machine:x64 "cmTC_9e15e.dir\\Debug\\CMakeCXXCompilerABI.obj"
-          cmTC_9e15e.vcxproj -> D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m2rbtw\\Debug\\cmTC_9e15e.exe
+          D:\\Visual Studio\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e9hrde\\Debug\\cmTC_910e7.exe" /INCREMENTAL /ILK:"cmTC_910e7.dir\\Debug\\cmTC_910e7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-e9hrde/Debug/cmTC_910e7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/!!!MAAykanat Dosyalar/MAA_Own_Study/Github Workflow/Book-Management-System/build/CMakeFiles/CMakeScratch/TryCompile-e9hrde/Debug/cmTC_910e7.lib" /MACHINE:X64  /machine:x64 "cmTC_910e7.dir\\Debug\\CMakeCXXCompilerABI.obj"
+          cmTC_910e7.vcxproj -> D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e9hrde\\Debug\\cmTC_910e7.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_9e15e.dir\\Debug\\cmTC_9e15e.tlog\\unsuccessfulbuild".
-          Touching "cmTC_9e15e.dir\\Debug\\cmTC_9e15e.tlog\\cmTC_9e15e.lastbuildstate".
-        Done Building Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m2rbtw\\cmTC_9e15e.vcxproj" (default targets).
+          Deleting file "cmTC_910e7.dir\\Debug\\cmTC_910e7.tlog\\unsuccessfulbuild".
+          Touching "cmTC_910e7.dir\\Debug\\cmTC_910e7.tlog\\cmTC_910e7.lastbuildstate".
+        Done Building Project "D:\\!!!MAAykanat Dosyalar\\MAA_Own_Study\\Github Workflow\\Book-Management-System\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e9hrde\\cmTC_910e7.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.89
+        Time Elapsed 00:00:01.03
         
       exitCode: 0
 ...

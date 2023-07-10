@@ -1,10 +1,12 @@
-#include<iostream>
 #include<fstream>
 #include<string>
 #include"include/fileHandle.h"
 
+FileHandle::FileHandle(){
+    std::cout<<"Constructor"<<std::endl;
+}
 
-void writeFile(std::string fileName, std::string data){
+void FileHandle::writeToFile(std::string fileName, std::string data){
     std::fstream file;
     file.open(fileName, std::ios::app);
     if(!file){
@@ -17,13 +19,14 @@ void writeFile(std::string fileName, std::string data){
     file.close();
 }
 
-void readFromFile(std::string fileName){
+void FileHandle::readFromFile(std::string fileName){
+    // std::cout<<"File Reading..."<<std::endl;
+
     std::fstream file;
     std::string line;
     file.open(fileName, std::ios::in);
 
     while(!file.eof()){
-        // std::cout<<"File Reading..."<<std::endl;
         getline(file,line);
         std::cout<<line<<std::endl;
     }

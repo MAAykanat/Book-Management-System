@@ -1,5 +1,4 @@
 #include<iostream>
-#include<fstream>
 #include"fileHandle.cpp"
 
 using namespace std;
@@ -7,7 +6,10 @@ using namespace std;
 int main(){
     int a;
 
-    readFromFile("test.txt");
+    FileHandle file;
+    file.readFromFile("test.txt");
+
+    // readFromFile("test.txt");
 
 
     // std::cout<<"Hello World"<<std::endl;
