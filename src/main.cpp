@@ -6,11 +6,13 @@ using namespace std;
 
 int main(){
     int a;
-    FileHandle file("example.txt");
+
+    readFromFile("test.txt");
+
+
+    // std::cout<<"Hello World"<<std::endl;
     
-    std::cout<<"Hello World"<<std::endl;
-    
-    std::cin>>a;
+    // std::cin>>a;
 
     return 0;
 }

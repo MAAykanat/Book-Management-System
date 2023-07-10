@@ -16,8 +16,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -33,8 +32,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -43,15 +41,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-bb89327317c80214414f.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-a6b161d3020aa24f2365.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "BMS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BMS-Debug-8703cc249e5442a97316.json",
-					"name" : "BMS",
 					"projectIndex" : 0
 				},
 				{
@@ -78,8 +69,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -95,8 +85,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -105,15 +94,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-bb89327317c80214414f.json",
+					"jsonFile" : "target-ALL_BUILD-Release-a6b161d3020aa24f2365.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "BMS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BMS-Release-1e4fbaf0dd774871c343.json",
-					"name" : "BMS",
 					"projectIndex" : 0
 				},
 				{
@@ -140,8 +122,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -157,8 +138,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -167,15 +147,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-bb89327317c80214414f.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a6b161d3020aa24f2365.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "BMS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BMS-MinSizeRel-98a0bf523cb3f7c464ec.json",
-					"name" : "BMS",
 					"projectIndex" : 0
 				},
 				{
@@ -202,8 +175,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -219,8 +191,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
-						2
+						1
 					]
 				}
 			],
@@ -229,15 +200,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-bb89327317c80214414f.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a6b161d3020aa24f2365.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "BMS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BMS-RelWithDebInfo-78f5f057ba6fabea60a1.json",
-					"name" : "BMS",
 					"projectIndex" : 0
 				},
 				{
