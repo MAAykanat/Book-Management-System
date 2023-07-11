@@ -1,18 +1,30 @@
-#include<iostream>
-#include"fileHandle.cpp"
-
-using namespace std;
+// #include"fileHandle.cpp"
+#include"userHandle.cpp"
 
 int main(){
-    int a;
+ 
+    // char fileName[]="test.txt";
 
-    FileHandle file;
-    file.readFromFile("test.txt");
+    // FileHandle file;
+
+    // file.deleteFile(fileName);
+
+    // for (int i; i<10; i++){
+        
+    //     std::string book = std::to_string(i+1) + ". Book";
+
+    //     file.writeToFile(fileName, book);
+    // }
+    // file.readFromFile(fileName);
+
+    // std::cin>>x;
 
     // readFromFile("test.txt");
 
+    User firstUser;
+    firstUser.enterUserToDB();
 
-    // std::cout<<"Hello World"<<std::endl;
+    std::cout<<"Program Finished"<<std::endl;
     
     // std::cin>>a;
 
